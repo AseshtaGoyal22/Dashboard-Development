@@ -46,7 +46,7 @@ In this task, I developed an interactive and insightful social media engagement 
   
    - In some cases, I may have used Tableau Stories to guide the viewer through a data driven narrative.
 
-# Applications of This Task
+## Applications of This Task
 
 The social media engagement dashboard has broad applications across different industries and job roles. Here are some practical use cases:
 
@@ -84,6 +84,6 @@ The social media engagement dashboard has broad applications across different in
   
    - It helps bridge the gap between theoretical knowledge and hands on, industry relevant tools.
 
-# Conclusion
+## Conclusion
 
 This task not only enhanced my technical proficiency with Tableau but also strengthened my ability to extract meaningful insights from raw data. By working on a real world dataset and transforming it into an interactive dashboard, I gained valuable experience in data storytelling, dashboard design, and user interaction. The skills demonstrated in this project are highly applicable in roles such as data analyst, digital marketer, business analyst, and more.
